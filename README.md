@@ -60,7 +60,7 @@ Sales-Profit-Analysis/
 │   └── dashboard_overview.png
 │
 └── README.md
-
+</pre>
 
 
 
@@ -115,6 +115,7 @@ Data Analyst | Python | SQL | Power BI
 Analysis is documented in a single, well-structured Google Colab Notebook
 Power BI .pbix file is included for interactive exploration
 Dashboard screenshots are provided for quick preview without Power BI
+
 
 
 
