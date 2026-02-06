@@ -15,7 +15,7 @@ This project presents a comprehensive analysis of sales performance, profitabili
 
 ### Project Requirements
 
-#### System Requirements
+#### System Requirements:
 - Operating System: Windows, macOS, or Linux  
 - Python Version: 3.8 or above  
 - Power BI Desktop (latest version recommended)
@@ -118,4 +118,5 @@ Data Analyst — Python, SQL, Power BI
 - The full analysis is documented in a structured Google Colab notebook.  
 - The Power BI (.pbix) file is included for interactive exploration.  
 - Dashboard screenshots are provided for quick viewing without Power BI.
+
 
