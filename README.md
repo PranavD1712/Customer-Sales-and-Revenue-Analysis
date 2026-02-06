@@ -45,7 +45,7 @@ Contains order-level data on sales, profit, customers, products, discounts, and 
 ###### **Project Structure:**
 
 <pre>
-Sales-Profit-Analysis/
+Sales-Profit-Analytics/
 │
 ├── data/
 │   └── Sample - Superstore.csv
@@ -61,6 +61,7 @@ Sales-Profit-Analysis/
 │
 └── README.md
 </pre>
+
 
 
 
@@ -105,9 +106,12 @@ Improve profitability through data-driven decisions
 
 
 
-**Author**
-Pranav Deshmukh
-Data Analyst | Python | SQL | Power BI
+<h3>Author</h3>
+
+<p>
+<b>Pranav Deshmukh</b><br>
+Data Analyst Python | SQL | Power BI
+</p>
 
 
 
@@ -115,6 +119,7 @@ Data Analyst | Python | SQL | Power BI
 Analysis is documented in a single, well-structured Google Colab Notebook
 Power BI .pbix file is included for interactive exploration
 Dashboard screenshots are provided for quick preview without Power BI
+
 
 
 
