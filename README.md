@@ -25,11 +25,13 @@ Power BI Desktop (latest version recommended)
 
 
 
-**Python Libraries Used**
-pandas
-numpy
-matplotlib
-seaborn
+<h2>Python Libraries Used:</h2>
+<ul>
+  <li><strong>Pandas</strong></li>
+  <li><strong>NumPy</strong></li>
+  <li><strong>Matplotlib</strong></li>
+  <li><strong>Seaborn</strong></li>
+</ul>
 
 
 
@@ -119,6 +121,7 @@ Data Analyst Python | SQL | Power BI
 Analysis is documented in a single, well-structured Google Colab Notebook
 Power BI .pbix file is included for interactive exploration
 Dashboard screenshots are provided for quick preview without Power BI
+
 
 
 
