@@ -1,8 +1,7 @@
 ## Customer Sales & Revenue Analytics
 
 ### Project Overview
-This project presents a comprehensive analysis of sales performance, profitability, customer behavior, and regional trends using the Superstore dataset.  
-The goal is to identify key profitability drivers, highlight loss-making areas, understand customer purchasing patterns, and communicate insights through an interactive Power BI dashboard.
+This project presents a comprehensive analysis of sales performance, profitability, customer behavior, and regional trends using the Superstore dataset.  The goal is to identify key profitability drivers, highlight loss-making areas, understand customer purchasing patterns, and communicate insights through an interactive Power BI dashboard.
 
 ---
 
@@ -119,3 +118,4 @@ Data Analyst — Python, SQL, Power BI
 - The full analysis is documented in a structured Google Colab notebook.  
 - The Power BI (.pbix) file is included for interactive exploration.  
 - Dashboard screenshots are provided for quick viewing without Power BI.
+
