@@ -108,7 +108,7 @@ This analysis supports organizations in:
 
 <p>
 <b>Pranav Deshmukh</b><br>
-Data Analyst — Python, SQL, Power BI
+Data Science Aspirant — Python(ML&DL), SQL, Power BI
 </p>
 
 ---
@@ -118,5 +118,6 @@ Data Analyst — Python, SQL, Power BI
 - The full analysis is documented in a structured Google Colab notebook.  
 - The Power BI (.pbix) file is included for interactive exploration.  
 - Dashboard screenshots are provided for quick viewing without Power BI.
+
 
 
